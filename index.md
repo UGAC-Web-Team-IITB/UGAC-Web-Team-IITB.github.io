@@ -1,7 +1,3 @@
----
-layout: post
-title: Web Team
----
 ## Welcome to UGAC Web Team IIT Bombay
 
 The one-stop place to present the awesome technical work done by the Academic Council
